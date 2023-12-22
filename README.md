@@ -14,7 +14,7 @@ This project aims to create a cutting-edge web platform for Vicuna Kouture, spec
 Refer to the [Issues tab](https://github.com/VicunaKouture/VK-Frontend/issues) on GitHub to find tasks and bugs that need attention. Work on them one by one to ensure a systematic development process.
 
 ## Figma Design
-Explore the [Figma Design]([insert-link-here](https://www.figma.com/file/2d3hbiXdUBbiiAGP2ZI1Hk/Vicuna-Kouture-Landing-Page-Design?type=design&node-id=0%3A1&mode=design&t=tTnEoIiFbGPg9dqz-1)) for a visual representation of the project. Make sure to adhere closely to the design specifications when working on different components and features.
+Explore the [Figma Design](https://www.figma.com/file/2d3hbiXdUBbiiAGP2ZI1Hk/Vicuna-Kouture-Landing-Page-Design?type=design&node-id=0%3A1&mode=design&t=tTnEoIiFbGPg9dqz-1) for a visual representation of the project. Make sure to adhere closely to the design specifications when working on different components and features.
 
 ## Project Build
 This project is built using the following technologies:
