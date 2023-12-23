@@ -7,7 +7,7 @@ interface CardProps {
   rating: string;
 }
 
-const Card = ({ imageUrl, title, price, rating }: CardProps) => {
+const DesignCard = ({ imageUrl, title, price, rating }: CardProps) => {
 
   return (
     <div className="flex flex-col items-center bg-white rounded-sm overflow-hidden">
@@ -29,4 +29,4 @@ const Card = ({ imageUrl, title, price, rating }: CardProps) => {
   );
 };
 
-export default Card;
+export default DesignCard;
