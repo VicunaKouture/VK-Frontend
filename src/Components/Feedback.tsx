@@ -56,7 +56,7 @@ function Feedback() {
           >
             
             <div className="flex flex-col">
-              <div className="h-[10%] lg:mb-[-5%] lg:mt-[1%] text-8xl font-robotoSlab">"</div>
+              <div className="h-[10%] lg:mb-[-5%] lg:mt-[1%] text-8xl font-robotoSlab">*</div>
               <div className="h-[20%]  lg:mb-[5%] text-3xl font-robotoSerif text-[#224f34] font-semibold lg:ml-[1%]">Sarah Paulson</div>
               <div className=" h-[70%] font-medium font-poppins text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit. Est error dignissimos consequuntur, delectus, vitae ea in sint debitis optio explicabo deleniti quibusdam! Nulla odit animi exercitationem, quidem voluptatum totam molestias!</div>
             </div>
