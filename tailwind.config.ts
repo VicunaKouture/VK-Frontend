@@ -16,6 +16,9 @@ const config: Config = {
       fontFamily: {
         'poppins': ['Poppins'],
         'roboto': ['Roboto Slab', 'serif'],
+      },
+      colors:{
+        primary:'green',
       }
     },
   },
