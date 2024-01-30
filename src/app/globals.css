@@ -4,6 +4,11 @@
 @tailwind components;
 @tailwind utilities;
 
+section.hero{
+  @apply grid;
+  grid-template-columns: .4fr .6fr;
+}
+
 /* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
